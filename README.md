@@ -1,2 +1,1 @@
-# mapping_platform
-mapping platform built with map box library 
+*please view [docs directory](./docs) for full documentation on code logic*
